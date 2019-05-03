@@ -1,11 +1,16 @@
 Code of Conduct
 ===============
+The Strongbox code of conduct is a set of rules and responsibilities that everyone must abide by, and follow. These codes of conduct are set to ensure that everyone within the community is treated equally, regardless of age, gender and race, and behave accordingly to the conducts that have been specified. We all have the right to feel safe within the community, and any form of harassment or threats will not be tolerated and should be reported, with action that must be taken against the perpetrator. Strongbox encourages and welcomes people from different backgrounds and races to contribute towards a variety of tasks  There are two types of conducts defined: Team conduct, which defines how everyone should behave in a group environment, and Work conduct, defines how everyone should behave towards their job in the community, and how they can cooperate towards fixing issues and pulling requests.    
 
 Team conduct
 ------------
-* Be respectful
+* Be respectful and welcoming
 * Keep a friendly tone
-* Be open to constructive criticism (we will be doing code reviews of every pull request)
+* Be open to constructive criticism and feedback (we will be doing code reviews of every pull request)
+* Be communicative and report any issues
+* Be able to collaborate effectively and work together to satisfy the issues set  
+* Be open to and respect your collaborators' opinions and feedback, even if their opinion differs to yours 
+* Be thoughtful and considerate. It is important that you think about how the words you use can be impacted towards other people.
 
 Work conduct
 ------------
@@ -17,10 +22,22 @@ Work conduct
   * Build failures
   * Code issues reported by Sonar (unless these are false-positives)
   * Code indentation issues
+  * Code errors 
+  * Code syntaxes
+  * Code typos
+  * Bugs in the code
   * Other issues you spot with your code
 * When you open a new pull request:
   * Put the words `[in progress]` in the title, while the pull request is not yet ready for merging and remove these words, when done, so that it's clear when we can review and merge your pull
   * If this pull relates to an existing issue, please refer to it in your pull by mentioning it (for example, "This pull is for issue #123"), which will automatically link the pull to the issue.
+  
+Reporting Code of Conduct 
+------------
+It is important that any forms of issues are taken seriously, and resolved in an effective manner. You may also have the choice to remain anonymous if you do not want your identity to be exposed. To report the issue, include:
+
+* Your contact details (Name, email address, telephone number etc.)
+* Individuals that are involved in the incident 
+* Any proof or evidence of the incident (preferably in a mailing list or chat group)
 
 General
 -------
